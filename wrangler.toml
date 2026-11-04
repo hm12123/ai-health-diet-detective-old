@@ -1,0 +1,8 @@
+# Cloudflare Pages 설정. 보통은 손댈 일이 없습니다.
+name = "ai-for-someone"
+pages_build_output_dir = "public"
+compatibility_date = "2026-11-03"
+
+# AI 바인딩. 이것 덕분에 API 키를 코드에 적지 않습니다.
+[ai]
+binding = "AI"
