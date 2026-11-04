@@ -35,8 +35,7 @@ export const 멈춤 = `
 `;
 
 // 5. 쓰는 모델
-export const 모델 = "@cf/meta/llama-3.1-8b-instruct";
-
+export const 모델 = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 // 6. 화면에 보일 글
 export const 화면 = {
   제목: "AI 헬스 식단 탐정",
